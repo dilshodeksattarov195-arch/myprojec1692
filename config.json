@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvarse",
+        "uuid": 6982884,
+        "checksum": "sffoyx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
